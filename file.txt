@@ -1,1 +1,3 @@
-Hi nagendra babu
+#!/bin/bash
+
+sudo touch file{1....4}
