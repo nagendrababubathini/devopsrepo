@@ -1,4 +1,3 @@
 #! bin/bash
 
-df -h
-free -m
+sudo touch file {1....4} 
